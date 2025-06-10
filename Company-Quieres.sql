@@ -1,4 +1,3 @@
---SQL> @C:\Users\melvi\SQL_Projects\Company\Company-Quieres.txt
 
 --1)Show list of all of employee in the Company
 SELECT * FROM C_EMPLOYEE;
