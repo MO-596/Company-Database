@@ -1,4 +1,3 @@
---@C:\Users\melvi\SQL_Projects\Company\company-data.sql
 
 INSERT INTO C_EMPLOYEE VALUES 
   ('James','E','Borg','888665555','10-NOV-27','450 Stone, Houston, TX','M',55000,null,null);
