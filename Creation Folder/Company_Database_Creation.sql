@@ -1,5 +1,4 @@
 
---SQL> @C:\Users\melvi\SQL_Projects\Company\Company_Database_Creation.txt
 --*******************************
 --Loading Company Database Tables:
 --	C_EMPLOYEES
